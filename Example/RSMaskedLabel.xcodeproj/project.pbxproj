@@ -264,6 +264,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "RSMaskedLabel/RSMaskedLabel-Prefix.pch";
 				INFOPLIST_FILE = "RSMaskedLabel/RSMaskedLabel-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.gtomato.enterprise.ios.rsmarkedlabel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -276,6 +277,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "RSMaskedLabel/RSMaskedLabel-Prefix.pch";
 				INFOPLIST_FILE = "RSMaskedLabel/RSMaskedLabel-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.gtomato.enterprise.ios.rsmarkedlabel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
